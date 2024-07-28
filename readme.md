@@ -1,0 +1,1 @@
+This repo assumes you have a existing VPC and NAT gateway ready and need to provide the ID of it while applying the terraform
