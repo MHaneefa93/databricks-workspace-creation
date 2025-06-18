@@ -1,20 +1,5 @@
 DATABRICKS-WORKSPACE-CREATION
 
-Empowering Secure, Scalable Data Innovation Seamlessly
-
-last-commit repo-top-language repo-language-count
-Built with the tools and technologies:
-
-Markdown Terraform
-
-Table of Contents
-
-Overview
-Getting Started
-Prerequisites
-Installation
-Usage
-Testing
 Overview
 
 This project provides a robust Terraform configuration to automate the deployment of secure, scalable Databricks environments on AWS. It orchestrates network setup, security policies, storage, and workspace provisioning, enabling developers to deploy cloud data platforms efficiently.
